@@ -1,0 +1,21 @@
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\UniversidadMara\UniversidadMara\obj\Debug\Facultad.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\UniversidadMara\UniversidadMara\obj\Debug\Facultad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\UniversidadMara\UniversidadMara\bin\Debug\UniversidadMara.exe.config
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\UniversidadMara\UniversidadMara\bin\Debug\UniversidadMara.exe
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\UniversidadMara\UniversidadMara\bin\Debug\UniversidadMara.pdb
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\UniversidadMara\UniversidadMara\obj\Debug\UniversidadMara.exe
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\UniversidadMara\UniversidadMara\obj\Debug\UniversidadMara.pdb
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\Facultad\Facultad\bin\Debug\UniversidadMara.exe.config
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\Facultad\Facultad\bin\Debug\UniversidadMara.exe
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\Facultad\Facultad\bin\Debug\UniversidadMara.pdb
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\Facultad\Facultad\obj\Debug\Facultad.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\Facultad\Facultad\obj\Debug\Facultad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\Facultad\Facultad\obj\Debug\UniversidadMara.exe
+C:\Users\Usuario\Desktop\Prog\5. Prog III\TP para 04-07\Facultad\Facultad\obj\Debug\UniversidadMara.pdb
+C:\Users\Usuario\Desktop\Facultad\Facultad\bin\Debug\UniversidadMara.exe.config
+C:\Users\Usuario\Desktop\Facultad\Facultad\bin\Debug\UniversidadMara.exe
+C:\Users\Usuario\Desktop\Facultad\Facultad\bin\Debug\UniversidadMara.pdb
+C:\Users\Usuario\Desktop\Facultad\Facultad\obj\Debug\Facultad.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Facultad\Facultad\obj\Debug\Facultad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facultad\Facultad\obj\Debug\UniversidadMara.exe
+C:\Users\Usuario\Desktop\Facultad\Facultad\obj\Debug\UniversidadMara.pdb
